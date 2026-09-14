@@ -28,6 +28,9 @@
 section#about {
     padding-bottom: 1px !important;
 }
+.container.section-title.aos-init.aos-animate {
+    padding-bottom: 10px !important;
+}
 h1#form_header {
   font-size: 30px;
   font-weight: 700;
