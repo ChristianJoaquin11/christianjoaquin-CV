@@ -25,6 +25,9 @@
   --nav-dropdown-color: #a8a9b4; /* Used for navigation links of the dropdown items in the navigation menu. */
   --nav-dropdown-hover-color: #ffffff; /* Similar to --nav-hover-color, this color is applied to dropdown navigation links when they are hovered over. */
 }
+section#about {
+    padding-bottom: 1px !important;
+}
 h1#form_header {
   font-size: 30px;
   font-weight: 700;
