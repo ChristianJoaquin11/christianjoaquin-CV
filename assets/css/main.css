@@ -26,10 +26,10 @@
   --nav-dropdown-hover-color: #ffffff; /* Similar to --nav-hover-color, this color is applied to dropdown navigation links when they are hovered over. */
 }
 section#about {
-    padding-bottom: 1px !important;
+    padding-bottom: 0px !important;
 }
 .container.section-title.aos-init.aos-animate {
-    padding-bottom: 10px !important;
+    padding-bottom: 0px !important;
 }
 h1#form_header {
   font-size: 30px;
